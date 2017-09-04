@@ -9,6 +9,7 @@ email: string,
 password: string
 
 ### Retorno
-{
-  "api_token": "string"
-}
+#### Status 200
+{ "api_token": "string" }
+#### Status 400
+{ "error": "string" }
