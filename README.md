@@ -1,4 +1,4 @@
-# FidelidadeSoma
+# Cartão Fidelidade SRFarma
 http://fidelidade.redesoma.com.br/
 
 ## Obter Token ##
